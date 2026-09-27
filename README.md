@@ -43,17 +43,15 @@ The implementation includes the main components of the SFCMCP framework:
 
 ---
 
-## Requirements
+## Environment
 
-The implementation requires Python and the following packages:
+The experiments were conducted using Python 3.8.3 with the following packages:
 
-```text
-numpy
-pandas
-scipy
-scikit-learn
-scikit-multiflow
-```
+- NumPy 1.23.5
+- pandas 1.5.1
+- SciPy 1.10.1
+- scikit-learn 1.3.2
+- scikit-multiflow 0.5.3
 
 The required packages can be installed using:
 
