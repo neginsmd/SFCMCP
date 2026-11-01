@@ -139,11 +139,9 @@ These parameters can be modified according to the dataset and experimental setti
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<USERNAME>/SFCMCP.git
+git clone https://github.com/neginsmd/SFCMCP.git
 cd SFCMCP
 ```
-
-Replace `<USERNAME>` with the GitHub username hosting this repository.
 
 ### 2. Install the required packages
 
