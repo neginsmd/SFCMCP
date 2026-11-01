@@ -112,18 +112,8 @@ lambda2 = 0.1
 # Proportion of labeled samples in each chunk
 Percentage = 0.05 or 0.1
 
-# Membership-related parameter
-Mean_memb = 0.4
-
 # Conformal prediction parameter
 significance_level = 0.90
-```
-
-Additional parameters used during online stream processing include:
-
-```python
-max_MC = 30
-Memb_th = 0.7
 ```
 
 The parameters have the following roles:
@@ -324,7 +314,7 @@ This repository provides the implementation of the SFCMCP framework described in
 
 If you use this implementation in your research, please cite the corresponding paper:
 
-**N. Samadi, J. Tanha, and M. Jalili, "Semi-supervised Fuzzy Conformal Prediction for Data Stream Classification."**
+**N. Samadi and J. Tanha, "Semi-supervised Fuzzy Conformal Prediction for Data Stream Classification."**
 
 The complete citation information will be updated after publication.
 
